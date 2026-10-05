@@ -1,0 +1,23 @@
+[
+    {
+        "id_producto": 1,
+        "nombre": "Hamburguesa Clásica",
+        "precio": 5.5,
+        "categoria": "Hamburguesas",
+        "stock": 10
+    },
+    {
+        "id_producto": 2,
+        "nombre": "Pizza Familiar",
+        "precio": 12.5,
+        "categoria": "Pizzas",
+        "stock": 8
+    },
+    {
+        "id_producto": 3,
+        "nombre": "Ensalada César",
+        "precio": 4.75,
+        "categoria": "Ensaladas",
+        "stock": 15
+    }
+]

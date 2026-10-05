@@ -1,0 +1,16 @@
+[
+    {
+        "id_usuario": 1,
+        "nombre": "Richard Tirira",
+        "rol": "Administrador",
+        "nombre_usuario": "richi",
+        "contrasena": "6666"
+    },
+    {
+        "id_usuario": 2,
+        "nombre": "María Díaz",
+        "rol": "Cliente",
+        "nombre_usuario": "maria",
+        "contrasena": "1234"
+    }
+]
