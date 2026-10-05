@@ -40,8 +40,8 @@ Evento <<ComboboxSelected>> para responder al cambio de rol.
 Confirmación antes de eliminar usuarios.
 Protección de la cuenta del administrador actualmente autenticado.
 Estructura del proyecto
-Repositorio GitHub
 ```text
+Repositorio GitHub
 ├── restaurante_app/
 │   ├── datos/
 │   │   ├── productos.json
