@@ -41,6 +41,7 @@ Confirmación antes de eliminar usuarios.
 Protección de la cuenta del administrador actualmente autenticado.
 Estructura del proyecto
 Repositorio GitHub
+```text
 ├── restaurante_app/
 │   ├── datos/
 │   │   ├── productos.json
@@ -62,3 +63,4 @@ Repositorio GitHub
 │   ├── assets/
 │   └── main.py
 └── README.md
+```
